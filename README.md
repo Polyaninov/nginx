@@ -42,6 +42,18 @@
 
 
 
+Задание 3
+
+Установите и запустите Haproxy.
+
+Приведите скриншот systemctl status haproxy, где будет видно, что Haproxy запущен.
+
+
+
+Ответ:
+
+![haproxy](https://user-images.githubusercontent.com/75700701/230154187-abe19fd2-88e6-447b-9ca4-46bcf5349b03.png)
+
 
 
 
