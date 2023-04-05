@@ -40,3 +40,19 @@
 Ответ:
 
 
+
+
+
+
+
+Задание 4
+Установите и запустите Nginx.
+
+Приведите скриншот systemctl status nginx, где будет видно, что Nginx запущен.
+
+
+Ответ:
+
+![nginx](https://user-images.githubusercontent.com/75700701/230153628-2c13f26c-a494-494b-876b-9b0924d66dce.png)
+
+
