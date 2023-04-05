@@ -76,3 +76,23 @@ Weighted Round Robin
 ![nginx](https://user-images.githubusercontent.com/75700701/230153628-2c13f26c-a494-494b-876b-9b0924d66dce.png)
 
 
+Задание 5
+
+Настройте Nginx на виртуальной машине таким образом, чтобы при запросе:
+
+curl http://localhost:8088/ping
+
+он возвращал в ответе строчку:
+
+"nginx is configured correctly".
+
+Приведите конфигурации настроенного Nginx сервиса и скриншот результата выполнения команды curl http://localhost:8088/ping.
+
+Ответ:
+
+![localhost](https://user-images.githubusercontent.com/75700701/230206378-09ee5dad-f453-4c0e-918d-c9961d9e2883.png)
+
+
+
+
+
