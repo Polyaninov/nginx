@@ -95,4 +95,8 @@ curl http://localhost:8088/ping
 
 
 
+Подскажите как сделать чтобы был перенос ? смотреть скрин 
+
+![Screenshot_1](https://user-images.githubusercontent.com/75700701/230206777-3734c604-6c09-44a6-be48-df84a99f8d91.png)
+
 
